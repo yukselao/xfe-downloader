@@ -14,7 +14,7 @@ Extract files to /root/xfe-downloader:
 
 qradar-console# cd /root/
 
-qradar-console# git clone 
+qradar-console# git clone https://github.com/yukselao/xfe-downloader.git
 
 # Demo Video:
 
