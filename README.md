@@ -10,7 +10,16 @@ Edit xfe-downloader.ini file for api key/password definition.
 
 # Installation
 
-Extract files to /root/xfe-downloader
+Extract files to /root/xfe-downloader:
+
+qradar-console# cd /root/
+
+qradar-console# git clone 
+
+# Demo Video:
+
+[![Watch demo video](https://img.youtube.com/vi/0aZr8TPCLOU/0.jpg)](https://www.youtube.com/watch?v=0aZr8TPCLOU) 
+
 
 # Usage:
 
@@ -18,8 +27,5 @@ qradar-console# cd /root/xfe-downloader
 
 qradar-console# ./xfe-downloader.py
 
-# Demo Video:
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0aZr8TPCLOU/0.jpg)](https://www.youtube.com/watch?v=0aZr8TPCLOU) 
 
 
