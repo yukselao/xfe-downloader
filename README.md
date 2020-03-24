@@ -18,6 +18,8 @@ qradar-console# cd /root/xfe-downloader
 
 qradar-console# ./xfe-downloader.py
 
-Demo Video:
-https://ibm.box.com/s/r2dwbua7b9xt29g69dfk7o5nakc8voum
+# Demo Video:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0aZr8TPCLOU/0.jpg)](https://www.youtube.com/watch?v=0aZr8TPCLOU) 
+
 
