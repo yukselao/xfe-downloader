@@ -31,4 +31,3 @@ qradar-console# cd /root/xfe-downloader
 qradar-console# ./xfe-downloader.py
 
 
-
