@@ -1,4 +1,4 @@
-# xfe-downloader: Covid19 IOCs
+# xfe-downloader: COVID-19 IOCs
 
 IBM X-force team is regularly updating this report topic (https://exchange.xforce.ibmcloud.com/collection/Threat-Actors-Capitalizing-on-COVID-19-f812020e3eddbd09a0294969721643fe).
 
