@@ -6,14 +6,6 @@ Author: Ali Okan Yuksel
 e-mail: aliokan.yuksel@ibm.com
 Date: 2020-03-24
 
-Description:
-Downloads IOCs on https://exchange.xforce.ibmcloud.com/collection/Threat-Actors-Capitalizing-on-COVID-19 and linked collections. Creates QRadar Reference Sets with these contents.
-
-This tool is not part of official QRadar setup. Should be run on console. Tested on QRadar 7.3.3 community edition.
-
-Edit xfe-downloader.ini file for api key/password definition and other settings.
-
-
 '''
 
 config = ConfigParser.ConfigParser()
